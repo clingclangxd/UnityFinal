@@ -15,7 +15,7 @@ public class Player : MonoBehaviour
     public void InitializePlayer(int startingBalance)
     {
         balance = startingBalance;
-        bet = 0; // Initialize bet to zero
+        bet = 0; 
     }
 
     
